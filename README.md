@@ -1,7 +1,7 @@
 # Alice_Speech
 A computer assistant written in python
 
-##Prerequisites
+## Prerequisites
   * Wikipedia-Api
   * Vosk
   * Sounddevice

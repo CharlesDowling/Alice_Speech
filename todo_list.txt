@@ -1,0 +1,5 @@
+# Todos:
+ * Add graphical interface
+    * Create settings/config file
+    * Rework weather into graphical interface
+    * Rework wikipediaapi into grapical interface

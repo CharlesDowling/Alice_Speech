@@ -7,6 +7,6 @@ A computer assistant written in python
   * Sounddevice
   * pytemp
 ## Abilities
-  * Request the weather from NOAA
+  * Request the weather from NOAA (Alpha)
   * Request information about topics from wikipedia (Alpha)
   * Date and time recognition

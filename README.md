@@ -2,8 +2,8 @@
 A computer assistant written in python
 
 ##Prerequisites
-  *Wikipedia-Api
-  *Vosk
-  *Sounddevice
-  *pytemp
+  * Wikipedia-Api
+  * Vosk
+  * Sounddevice
+  * pytemp
 

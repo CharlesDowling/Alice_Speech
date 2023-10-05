@@ -2,4 +2,4 @@ sounddevice
 pyttsx3
 vosk
 pytemp
-wikipediaapi
+Wikipedia-API
